@@ -1,0 +1,17 @@
+.majid-btn-container{
+	display: flex;
+	justify-content: space-between;	
+	margin-bottom: 10px;
+}
+.majid-btn{
+	background-color: #000;
+	color: #fff;
+	padding: 5px 15px;
+	text-decoration: none;
+	border-radius: 5px;
+}
+.majid-btn:hover{
+	background-color: blue;
+	color: #fff;
+
+}
